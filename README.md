@@ -37,3 +37,6 @@
 3. 학습에 활용된 한경 컨센서스의 데이터 중 상향/하향 또한 "예측"에 불과하고 실제 상향/하향과 차이가 있음
 4. 리포트와 뉴스의 차이점을 잘 반영하지 못해 분류가 잘 되지 않는 모델이 있음
 5. 보완점 : 본 프로젝트에선 데이터셋을 늘려 진행하면 성능이 나아질 것으로 예상
+
+<img width="406" alt="image" src="https://github.com/Korean-MJ/Model_to_predict_Stock_upside_downside_through_article_title/assets/131749711/6f202fad-0b00-4f11-9cfa-1219021b205a">
+
