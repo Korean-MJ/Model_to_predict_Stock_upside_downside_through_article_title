@@ -27,7 +27,7 @@
 2. 3개의 조와 SentenceTransformer를 이용해 총 4가지 방식으로 데이터 전처리를 진행함
 3. RandomForest, 나이브베이즈, AdaBoost, LSTM, BERT 모델을 이용하여 각 모델별로 성능을 비교함
 4. 실험결과, b조의 전처리+Mecab+Keras+AdaBoost모델의 가장 높은 accuracy 점수를 보임
-그러나 실전 적용에서는 SentenceTransformer+Naive Bayes Classifier가 가장 잘 분류함
+5. 그러나 실전 적용에서는 SentenceTransformer+Naive Bayes Classifier가 가장 잘 분류함
 
 
 추후 시사점
@@ -36,4 +36,4 @@
 2. 데이터셋이 237개로 작아 학습이 잘 되지 않아 전반적으로 모델 성능이 뛰어나지 않음
 3. 학습에 활용된 한경 컨센서스의 데이터 중 상향/하향 또한 "예측"에 불과하고 실제 상향/하향과 차이가 있음
 4. 리포트와 뉴스의 차이점을 잘 반영하지 못해 분류가 잘 되지 않는 모델이 있음
--> 보완점 : 본 프로젝트에선 데이터셋을 늘려 진행하면 성능이 나아질 것으로 예상
+5. 보완점 : 본 프로젝트에선 데이터셋을 늘려 진행하면 성능이 나아질 것으로 예상
