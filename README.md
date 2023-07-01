@@ -2,6 +2,18 @@
 
 멀티캠퍼스 세미 프로젝트 2023.06 - 2023.07
 
+<img width="406" alt="image" src="https://github.com/Korean-MJ/Model_to_predict_Stock_upside_downside_through_article_title/assets/131749711/f551e342-ea75-4b0d-9d7e-45530cd7252e">
+
+
+
+
+
+
+
+
+
+
+
 
 분석 배경
 -------------------------------------------------------------------------------
@@ -38,5 +50,4 @@
 4. 리포트와 뉴스의 차이점을 잘 반영하지 못해 분류가 잘 되지 않는 모델이 있음
 5. 보완점 : 본 프로젝트에선 데이터셋을 늘려 진행하면 성능이 나아질 것으로 예상
 
-<img width="406" alt="image" src="https://github.com/Korean-MJ/Model_to_predict_Stock_upside_downside_through_article_title/assets/131749711/6f202fad-0b00-4f11-9cfa-1219021b205a">
 
